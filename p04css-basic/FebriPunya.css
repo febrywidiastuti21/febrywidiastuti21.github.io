@@ -1,0 +1,27 @@
+body {
+    margin-left: 50px;
+    margin-right: 50px;
+    pading: 0;
+    font-family: arial;
+    background-color: #F6F9FF;
+}
+
+.data {
+    margin-top: 30px;
+}
+
+.pendidikan {
+    margin-top: 30px;
+}
+
+h5 {
+    color: red;
+}
+
+.tanda tangan {
+    text-align: center;
+}
+
+hr {
+    margin-top: 50px;
+}
